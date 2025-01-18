@@ -1,5 +1,5 @@
 pip install django
-django-allauth
+pip install django-allauth
 pip install django-crispy-forms
 pip install crispy-bootstrap4
 pip install pillow                 
